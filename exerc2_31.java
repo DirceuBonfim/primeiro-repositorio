@@ -1,3 +1,5 @@
+//exercicio2.31 java como programar 8 edição
+
 import java.util.Scanner;
 
 public class exerc2_31
